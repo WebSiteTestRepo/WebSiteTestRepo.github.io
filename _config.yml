@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "大饱饱"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "大饱饱喜欢睡眯眯，小米宝喜欢喝牛奶"
+  location         : "沙发🛋️"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
