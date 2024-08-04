@@ -42,9 +42,11 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+1. **Jie Dong\***, Huaibin Cai, and Mibao Hu, "A good paper" [J] _A great publishier_ (2023). 
+2. Another good paper. 
+#  <ul>{% for post in site.publications reversed %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
 Talks
 ======
