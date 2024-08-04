@@ -42,7 +42,7 @@ Skills
 
 Publications
 ======
-1. **Jie Dong\***, Huaibin Cai, and Mibao Hu, "[A good paper](https://djnih.github.io/)" [J] _A great publishier_ (2023). 
+1. **Jie Dong\***, Huaibin Cai, and Mibao Hu, "A good paper" [J] _A great publishier_ (2023). [[paper link](https://djnih.github.io/)]
 2. Another good paper. 
 #  <ul>{% for post in site.publications reversed %}
 #    {% include archive-single-cv.html %}
